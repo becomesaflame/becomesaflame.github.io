@@ -1,0 +1,8 @@
+auto: false  
+server: false  
+lsi: true
+markdown: maruku
+pygments: true  
+permalink: /:title  
+# paginate: 10  
+exclude: ["lib", "blog.rb", "Capfile", "config", "log", "Rakefile", "tmp"]  
