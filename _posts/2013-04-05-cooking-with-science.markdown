@@ -17,7 +17,7 @@ tags:
 - temperature control
 ---
 
-When I heard about sous-vide cooking, I knew I had to make a one.  It's a way of producing perfectly cooked meat, and it involves messing around with electronics.  Right up my alley!   I decided to put one together for my girlfriend as a Christmas present.  She loves cooking, and making the project as a gift gave me a deadline and ensured I'd actually finish it.
+When I heard about sous-vide cooking, I knew I had to make one.  It's a way of producing perfectly cooked meat, and it involves messing around with electronics.  Right up my alley!   I decided to put one together for my girlfriend as a Christmas present.  She loves cooking, and making the project as a gift gave me a deadline and ensured I'd actually finish it.
 
 Sous-vide cooking involves vacuum sealing food (usually meat) and cooking it in a temperature controlled water bath.  The idea is to set the water temperature to exactly what you want the internal temperature of your food to cook to, then leave it for a few hours.  It won't overcook or dry out.  Then you can take it out, sear the outside to make it crispy and brown, and have a thick, juicy steak that's cooked perfectly evenly medium rare straight through.
 
