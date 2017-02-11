@@ -12,6 +12,7 @@ $github:         #f6c2a4;
 $stack-overflow: #c98b3b;
 $rss:            #eea33a;
 
+$black:          #000000;
 $darker:         #21211E;
 $dark:           #2D2D29;
 $medium:         #3B3B35;
@@ -41,12 +42,13 @@ html {
 
 body {
 	font-family: 'Lucida Console', Monaco, monospace;
-	font-weight: 300;
-	background-color: $dark;
+	//font-weight: 300;
+	background-color: $black;
 	color: $white;
-	font-size: 16px;
+	font-size: 1.2em;
 	height: 100%;
 	width: 100%
+  border: 2px solid #959596;
 }
 
 a, a:active {
