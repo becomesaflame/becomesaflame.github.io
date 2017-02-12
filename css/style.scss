@@ -27,6 +27,7 @@ $medium-purple:  #480048;
 $regular-purple: #601848;
 $red:            #C04848;
 $orange:         #F07241;
+$tan:            #E4D3A6;
 
 /* Responsive sizes */
 $screen-sm-min: 768px;
@@ -45,7 +46,7 @@ body {
 	//font-weight: 300;
 	background-color: $dark;
 	color: $white;
-	font-size: 1.2em;
+	//font-size: 12pt;
 	height: 100%;
 	width: 100%
 }
@@ -54,6 +55,7 @@ a, a:active {
 	color: $light-blue;
 	text-decoration: none;
 }
+
 
 a:hover {
 	color: $dark-blue;
@@ -299,7 +301,7 @@ ul {
 
 			li {
 				margin-bottom: 20px;
-				font-size: 24px;
+				font-size: 22px;
 
 				a:hover {
 					color: $light-medium;
@@ -324,7 +326,7 @@ ul {
 		}
 
 		a, a:active {
-			color: $white;
+			color: $tan;
 			white-space: nowrap;
 		}
 
@@ -543,15 +545,15 @@ ul {
 		}
 
 		.content {
-			font-size: 18px;
-			line-height: 170%;
+			font-size: 1em;
+			line-height: 1.3em;
 			padding-left: 15px;
 			padding-right: 15px;
 			padding-top: 10px;
 			padding-bottom: 10px;
 
 			@media (min-width: $screen-sm-min) {
-				font-size: 24px;
+				font-size: 1em;
 				padding-left: 30px;
 				padding-right: 30px;
 				padding-top: 40px;
