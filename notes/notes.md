@@ -2,3 +2,8 @@ Github article on [using Jekyll as a static site generator with github pages](ht
 
 [old blog](https://sgrandpre.wordpress.com/)
 
+
+TODO:
+Fix all image links
+Fix all image headers
+
