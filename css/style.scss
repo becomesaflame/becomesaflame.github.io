@@ -565,7 +565,7 @@ ul {
 			}
 
 			img {
-				max-width: 100%;
+				max-width: 75%;
 				padding: 10px;
     		display: block;
     		margin-left: auto;
@@ -574,7 +574,7 @@ ul {
 
       // image with caption 
       img + em {
-        max-width: 75%;
+        max-width: 65%;
         padding: 10px;
         display: block;
     		margin-left: auto;
@@ -585,7 +585,7 @@ ul {
 				list-style-type: disc;
 			}
 
-            		ol {
+     	ol {
 				list-style-type: decimal;
 			}
 

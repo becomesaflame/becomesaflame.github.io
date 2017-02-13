@@ -23,9 +23,8 @@ The hexapod robot is making the news!  We've shown up on [Wired.com](http://www
 
 Gui rendered a concept model that gives a good idea of what the robot is going to look like:
 
-
-
-[caption id="" align="alignnone" width="428"]![](http://www.wired.com/images_blogs/autopia/2012/05/Stompy-Isometric.jpg) Stompy, the hexapod robot[/caption]
+![](http://www.wired.com/images_blogs/autopia/2012/05/Stompy-Isometric.jpg)
+<em style="text-align: center;">Stompy, the hexapod robot</em>
 
 
 

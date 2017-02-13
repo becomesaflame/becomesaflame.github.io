@@ -18,7 +18,8 @@ Mom and Dad came up last Saturday to help me put together the hammock structure 
 
 
 
-[![](https://lh3.googleusercontent.com/-jK9BaHhD-mY/T1PBIqOZ-SI/AAAAAAAAD3M/YDES3gvvbpk/s640/IMAG0167.jpg)](https://picasaweb.google.com/110452391549731294373/Hammock?authkey=Gv1sRgCIKZrtTcjdyfVg#)
+![](https://lh3.googleusercontent.com/-jK9BaHhD-mY/T1PBIqOZ-SI/AAAAAAAAD3M/YDES3gvvbpk/s640/IMAG0167.jpg)
+<em style="text-align: center;">https://picasaweb.google.com/110452391549731294373/Hammock?authkey=Gv1sRgCIKZrtTcjdyfVg#</em>
 
 
 

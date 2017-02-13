@@ -24,8 +24,8 @@ There are so many awesome things to do and to learn on this project that I had a
 You can follow our progress over at the [Project Hexapod blog](http://projecthexapod.com/blog/)!
 
 
-
-[caption id="attachment_52" align="alignnone" width="450" caption="I've always wanted to build this thing"][![The definition of badass](http://sgrandpre.files.wordpress.com/2012/04/backhoe-spider1.png)](http://sgrandpre.files.wordpress.com/2012/04/backhoe-spider1.png)[/caption]
+![The definition of badass](http://sgrandpre.files.wordpress.com/2012/04/backhoe-spider1.png)
+<em style="text-align: center;">http://sgrandpre.files.wordpress.com/2012/04/backhoe-spider1.png</em>
 
 
 

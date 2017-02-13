@@ -11,13 +11,15 @@ wordpress_id: 82
 
 I'm magnetic!
 
-[caption id="" align="alignnone" width="432"]![](https://lh3.googleusercontent.com/-Crd8tHZ3Tm4/T60JgL1FFNI/AAAAAAAAEtg/k6cu3m_o6ws/s720/IMAG0238.jpg) Lifting a paperclip with my finger[/caption]
+![](https://lh3.googleusercontent.com/-Crd8tHZ3Tm4/T60JgL1FFNI/AAAAAAAAEtg/k6cu3m_o6ws/s720/IMAG0238.jpg)
+<em style="text-align: center;">Lifting a paperclip with my finger</em>
 
 Last week Nessie and I flew down to Pittsburgh for a day to have renowned body modification artist [Steve Haworth](www.stevehaworth.com) surgically implant tiny neodymium magnets in our fingertips.  They give us a new sense - we can feel magnetic fields.
 
 The magnets let us know how ferrous a metal is (useful when welding with scrap metal).  We can feel the field given off by a transformer or a motor and gauge the amount of power it's using.  Microwave transformers are particularly strong - I can feel them a good six inches away.  If there's a strong enough current moving through a wire, we can feel that too.  We can also lift small metal objects.  Nessie's magnet is closer to the skin, so she can lift things like bottle caps.  The heaviest thing I can lift is a small paperclip.
 
-[caption id="attachment_75" align="alignnone" width="450"][![](http://sgrandpre.files.wordpress.com/2012/05/img842-e1337191385475.jpg)](http://sgrandpre.files.wordpress.com/2012/05/img842.jpg) Nessie lifting a bottle cap with magic[/caption]
+![](http://sgrandpre.files.wordpress.com/2012/05/img842-e1337191385475.jpg)
+<em style="text-align: center;">Nessie lifting a bottle cap with magic</em>
 
 As someone who loves playing with electricity, this new way of experiencing the world around me is profound.  It takes an invisible force that is all around us and makes it tangible.  It's one thing to know that a spot welder uses a couple hundred amps to melt two pieces of metal together.  It's another thing entirely to actually feel the visceral _thump_ of power when you press the switch.
 

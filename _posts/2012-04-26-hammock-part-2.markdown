@@ -18,7 +18,8 @@ The hammock is finished!  I ended up weaving it myself.  I made a shuttle out 
 
 I attached the net by spiraling rope through the loops at each edge and around the 4x4 at the top of the hammock structure.
 
-[caption id="" align="alignnone" width="306" caption="Finished hammock"][![](https://lh3.googleusercontent.com/-mMm3lW04r7E/T3Ze7hPyi4I/AAAAAAAAEJU/bFDa4rKZxpU/s512/IMAG0199.jpg)](https://picasaweb.google.com/110452391549731294373/Hammock?authuser=0&authkey=Gv1sRgCIKZrtTcjdyfVg&feat=directlink)[/caption]
+![](https://lh3.googleusercontent.com/-mMm3lW04r7E/T3Ze7hPyi4I/AAAAAAAAEJU/bFDa4rKZxpU/s512/IMAG0199.jpg)
+<em style="text-align: center;">https://picasaweb.google.com/110452391549731294373/Hammock?authuser=0&authkey=Gv1sRgCIKZrtTcjdyfVg&feat=directlink</em>
 
 
 
